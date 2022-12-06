@@ -1,0 +1,45 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    font-size: 20px;
+    background-color: deepskyblue;
+}
+
+#contenue {
+    width: 500px;
+    height: 400px;
+    position: relative;
+    left: 520px;
+    top: 220px;
+    background-color: gold;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+#titre {
+    font-size: 30px;
+    font-weight: bolder;
+    margin: 20px;
+}
+
+p, #test {
+    margin: 25px;
+}
+
+input {
+    height: 30px;
+    width: 200px;
+}
+
+#valide {
+    margin: 10px;
+    padding: 10px;
+    background-color: lime;
+    border-radius: 20px;
+}
+
